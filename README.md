@@ -13,4 +13,4 @@ python filza26maker.py
 [✓] IPA built: Filza-Jailed-iOS26-GeoSn0w.ipa
 [✓] Done. You can now install the IPA with AltStore/Sideloadly/TrollStore.
 
-<a href="https://idevicecentral.com/tweaks/filza26maker-filza-convert-deb-to-ipa-no-jailbreak-ios-18-26/">Read all about Filza26Maker</a>
+[Read all about Filza26Maker](https://idevicecentral.com/tweaks/filza26maker-filza-convert-deb-to-ipa-no-jailbreak-ios-18-26/)
