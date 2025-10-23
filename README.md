@@ -1,3 +1,4 @@
+Requirements: Python 3.8 or higher - Install from the official website.
 # Filza26Maker
 A small program that takes the Filza tweak DEB and converts it to an iOS 26 / iOS 18-ready IPA :-) No exploits.
 
